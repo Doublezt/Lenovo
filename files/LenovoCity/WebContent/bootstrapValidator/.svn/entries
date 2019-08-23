@@ -1,0 +1,34 @@
+10
+
+dir
+240
+http://172.16.2.4:7777/svn/Dispatcher/trunk/20%E5%B7%A5%E7%A8%8B/20.40%E6%BA%90%E4%BB%A3%E7%A0%81/Dispatcher/WebRoot/bootstrapValidator
+http://172.16.2.4:7777/svn/Dispatcher
+
+
+
+2015-12-08T09:19:31.316138Z
+27
+sunchengtao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9f6a123e-2e30-8e42-b766-bf3730aedd6c
+
+css
+dir
+
+js
+dir
+
